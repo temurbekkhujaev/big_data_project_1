@@ -11,8 +11,9 @@ public class Query {
             System.out.println("Usage:\n$hadoop jar <jar_name>.jar Query " +
                     "<path to output directory of Indexer on HDFS> " +
                     "<query in quotes> <number of most relevant docs>" +
-                    "\nExample:\n$hadoop jar IBD_HW1.jar Query " +
+                    "\nExample:\n$hadoop jar ibdhmw.jar Query " +
                     "/indexed_docs \"what is big data\" 3");
+
             return;
         }
         // Get arguments
