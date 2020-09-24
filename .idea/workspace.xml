@@ -5,8 +5,7 @@
   </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Indexer" />
-      <artifact name="Query:jar" />
+      <artifact name="imdbhmw:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -32,16 +31,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca7d7e5-186a-4980-a946-f928ec86cd00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big_data_project_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/big_data_project_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Indexer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/imdbhmw_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Query_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ibdhmw.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big_data_project_1/Indexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/big_data_project_1/Indexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big_data_project_1/META-INF/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/big_data_project_1/Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/big_data_project_1/Query.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indexer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +133,7 @@
       <workItem from="1600943117440" duration="3966000" />
       <workItem from="1600968602508" duration="5966000" />
       <workItem from="1600975117505" duration="217000" />
-      <workItem from="1600975353961" duration="2388000" />
+      <workItem from="1600975353961" duration="3606000" />
     </task>
     <servers />
   </component>
@@ -167,10 +165,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600943154757" />
-    <state x="410" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600973539434">
+    <state x="410" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600978320027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="410" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600973539434" />
+    <state x="410" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600978320027" />
     <state x="599" y="106" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1600946946592">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -203,10 +201,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600975098271" />
-    <state x="342" y="0" key="SettingsEditor" timestamp="1600976070994">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1600978367262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="342" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600976070994" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600978367262" />
     <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600943501430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
