@@ -1,9 +1,9 @@
 # Report for Assignment №1. MapReduce. Simple Search Engine
-## Team 
+## Team Jakarta
 - Farhod Khakimiyon
 - Temurbek Khujaev
 ## Github Repository
-- Link: https://github.com/temurbekkhujaev/big_data_project_1
+- Link: [https://github.com/temurbekkhujaev/big_data_project_1](https://github.com/temurbekkhujaev/big_data_project_1)
 ## Contents
 - Motivation
 - Achieved Results
